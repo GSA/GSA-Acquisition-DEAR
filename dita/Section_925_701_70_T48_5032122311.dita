@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept outputclass="Section" id="Section_925_701_70_T48_5032122311">
+      <title class="- topic/title ">
+         <ph props="autonumber">925.701-70</ph> Prohibited sources.</title>
+      <conbody>
+         <p xtrc="P">No contract may be awarded to a company owned by an entity controlled by a foreign government if performance of the contract will require access to proscribed information. See subpart <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Subpart_904_71_T48_5031856"
+                  href="Subpart_904_71_T48_5031856.dita#Subpart_904_71_T48_5031856">904.71</xref> for additional guidance.
+</p>
+      </conbody>
+   </concept>
+</dita>

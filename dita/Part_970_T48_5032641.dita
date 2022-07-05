@@ -1,0 +1,1953 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <topic id="Part_970_T48_5032641">
+      <title class="- topic/title ">
+         <ph props="autonumber">PART 970</ph> - DOE MANAGEMENT AND OPERATING CONTRACTS</title>
+      <body>
+         <p>
+            <ph class="- topic/ph ">Authority: </ph>
+                           42 U.S.C. 2201; 2282a; 2282b; 2282c; 42 U.S.C. 7101  50 U.S.C. 2401 
+                           
+                        </p>
+         <p>
+            <ph class="- topic/ph ">Source: </ph>
+                           65 FR 81009, Dec. 22, 2000, unless otherwise noted.
+
+
+
+                        </p>
+         <ul otherprops="TOC">
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="Subpart_970_01_T48_50326411.dita#Subpart_970_01_T48_50326411">Subpart 970.01 - Management and Operating Contract Regulatory System</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_970_0100_T48_5032641111.dita#Section_970_0100_T48_5032641111">970.0100 Scope of part.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_970_0103_T48_5032641112.dita#Section_970_0103_T48_5032641112">970.0103 Publication and codification.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="Subpart_970_03_T48_50326412.dita#Subpart_970_03_T48_50326412">Subpart 970.03 - Improper Business Practices and Personal Conflicts of Interest</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_970_0309_T48_5032641211.dita#Section_970_0309_T48_5032641211">970.0309 Whistleblower Protection of Contractor Employees.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_970_0309_1_T48_5032641212.dita#Section_970_0309_1_T48_5032641212">970.0309-1 Applicability.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_970_0370_T48_5032641213.dita#Section_970_0370_T48_5032641213">970.0370 Management Controls and Improvements.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_970_0370_1_T48_5032641214.dita#Section_970_0370_1_T48_5032641214">970.0370-1 Policy.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_970_0370_2_T48_5032641215.dita#Section_970_0370_2_T48_5032641215">970.0370-2 Contract clause.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_970_0371_T48_5032641216.dita#Section_970_0371_T48_5032641216">970.0371 Conduct of employees of DOE management and operating contractors.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_970_0371_1_T48_5032641217.dita#Section_970_0371_1_T48_5032641217">970.0371-1 Scope of section.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_970_0371_2_T48_5032641218.dita#Section_970_0371_2_T48_5032641218">970.0371-2 Applicability.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_970_0371_3_T48_5032641219.dita#Section_970_0371_3_T48_5032641219">970.0371-3 Definition.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_970_0371_4_T48_50326412110.dita#Section_970_0371_4_T48_50326412110">970.0371-4 Gratuities.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_970_0371_5_T48_50326412111.dita#Section_970_0371_5_T48_50326412111">970.0371-5 Use of privileged information.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_970_0371_6_T48_50326412112.dita#Section_970_0371_6_T48_50326412112">970.0371-6 Incompatibility between regular duties and private interests.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_970_0371_7_T48_50326412113.dita#Section_970_0371_7_T48_50326412113">970.0371-7 Outside employment of contractor employees.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_970_0371_8_T48_50326412114.dita#Section_970_0371_8_T48_50326412114">970.0371-8 Employee disclosure concerning other employment services.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_970_0371_9_T48_50326412115.dita#Section_970_0371_9_T48_50326412115">970.0371-9 Contract clause.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="Subpart_970_04_T48_50326413.dita#Subpart_970_04_T48_50326413">Subpart 970.04 - Administrative Matters</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_970_0404_T48_5032641311.dita#Section_970_0404_T48_5032641311">970.0404 Safeguarding classified information.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_970_0404_1_T48_5032641312.dita#Section_970_0404_1_T48_5032641312">970.0404-1 Definitions.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_970_0404_2_T48_5032641313.dita#Section_970_0404_2_T48_5032641313">970.0404-2 General.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_970_0404_3_T48_5032641314.dita#Section_970_0404_3_T48_5032641314">970.0404-3 Responsibilities of contracting officers.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_970_0404_4_T48_5032641315.dita#Section_970_0404_4_T48_5032641315">970.0404-4 Solicitation provision and contract clauses.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_970_0407_T48_5032641316.dita#Section_970_0407_T48_5032641316">970.0407 Contractor records retention.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_970_0407_1_T48_5032641317.dita#Section_970_0407_1_T48_5032641317">970.0407-1 Applicability.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_970_0407_1_1_T48_5032641318.dita#Section_970_0407_1_1_T48_5032641318">970.0407-1-1 Alternate retention schedules.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_970_0407_1_2_T48_5032641319.dita#Section_970_0407_1_2_T48_5032641319">970.0407-1-2 Access to and ownership of records.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_970_0407_1_3_T48_50326413110.dita#Section_970_0407_1_3_T48_50326413110">970.0407-1-3 Contract clause.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_970_0470_T48_50326413111.dita#Section_970_0470_T48_50326413111">970.0470 Department of Energy Directives.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_970_0470_1_T48_50326413112.dita#Section_970_0470_1_T48_50326413112">970.0470-1 General.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_970_0470_2_T48_50326413113.dita#Section_970_0470_2_T48_50326413113">970.0470-2 Contract clause.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="Subpart_970_08_T48_50326414.dita#Subpart_970_08_T48_50326414">Subpart 970.08 - Required sources of supplies and services</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_970_0801_T48_5032641411.dita#Section_970_0801_T48_5032641411">970.0801 Excess personal property.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_970_0801_2_T48_5032641412.dita#Section_970_0801_2_T48_5032641412">970.0801-2 Policy.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_970_0808_T48_5032641413.dita#Section_970_0808_T48_5032641413">970.0808 Acquisition of printing and related supplies.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_970_0808_00_T48_5032641414.dita#Section_970_0808_00_T48_5032641414">970.0808-00 Scope.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_970_0808_2_T48_5032641415.dita#Section_970_0808_2_T48_5032641415">970.0808-2 Policy.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_970_0808_3_T48_5032641416.dita#Section_970_0808_3_T48_5032641416">970.0808-3 Contract clause.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="Subpart_970_09_T48_50326415.dita#Subpart_970_09_T48_50326415">Subpart 970.09 - Contractor Qualifications</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_970_0905_T48_5032641511.dita#Section_970_0905_T48_5032641511">970.0905 Organizational and consultant conflicts of interest.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_970_0970_T48_5032641512.dita#Section_970_0970_T48_5032641512">970.0970 Performance guarantees.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_970_0970_1_T48_5032641513.dita#Section_970_0970_1_T48_5032641513">970.0970-1 Determination of responsibility.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_970_0970_2_T48_5032641514.dita#Section_970_0970_2_T48_5032641514">970.0970-2 Solicitation provision.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="Subpart_970_11_T48_50326416.dita#Subpart_970_11_T48_50326416">Subpart 970.11 - Describing Agency Needs</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_970_1100_T48_5032641611.dita#Section_970_1100_T48_5032641611">970.1100 Policy.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_970_1100_1_T48_5032641612.dita#Section_970_1100_1_T48_5032641612">970.1100-1 Performance-based contracting.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_970_1100_2_T48_5032641613.dita#Section_970_1100_2_T48_5032641613">970.1100-2 Additional considerations.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_970_1103_4_T48_5032641614.dita#Section_970_1103_4_T48_5032641614">970.1103-4 Contract clause.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_970_1170_T48_5032641615.dita#Section_970_1170_T48_5032641615">970.1170 Work authorization.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_970_1170_1_T48_5032641616.dita#Section_970_1170_1_T48_5032641616">970.1170-1 Policy.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_970_1170_2_T48_5032641617.dita#Section_970_1170_2_T48_5032641617">970.1170-2 Contract provision.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="Subpart_970_15_T48_50326417.dita#Subpart_970_15_T48_50326417">Subpart 970.15 - Contracting by Negotiation</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_970_1504_T48_5032641711.dita#Section_970_1504_T48_5032641711">970.1504 Contract pricing.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_970_1504_1_T48_5032641712.dita#Section_970_1504_1_T48_5032641712">970.1504-1 Price analysis.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_970_1504_1_1_T48_5032641713.dita#Section_970_1504_1_1_T48_5032641713">970.1504-1-1 Fees for management and operating contracts.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_970_1504_1_2_T48_5032641714.dita#Section_970_1504_1_2_T48_5032641714">970.1504-1-2 Fee policy.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_970_1504_1_3_T48_5032641715.dita#Section_970_1504_1_3_T48_5032641715">970.1504-1-3 Special considerations: Laboratory management and operation.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_970_1504_1_4_T48_5032641716.dita#Section_970_1504_1_4_T48_5032641716">970.1504-1-4 Types of contracts and fee arrangements.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_970_1504_1_5_T48_5032641717.dita#Section_970_1504_1_5_T48_5032641717">970.1504-1-5 General considerations and techniques for determining fixed fees.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_970_1504_1_6_T48_5032641718.dita#Section_970_1504_1_6_T48_5032641718">970.1504-1-6 Calculating fixed fee.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_970_1504_1_7_T48_5032641719.dita#Section_970_1504_1_7_T48_5032641719">970.1504-1-7 Fee base.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_970_1504_1_8_T48_50326417110.dita#Section_970_1504_1_8_T48_50326417110">970.1504-1-8 Special equipment purchases.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_970_1504_1_9_T48_50326417111.dita#Section_970_1504_1_9_T48_50326417111">970.1504-1-9 Special considerations: Cost-plus-award-fee.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_970_1504_1_10_T48_50326417112.dita#Section_970_1504_1_10_T48_50326417112">970.1504-1-10 Special considerations: Fee limitations.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_970_1504_1_11_T48_50326417113.dita#Section_970_1504_1_11_T48_50326417113">970.1504-1-11 Documentation.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_970_1504_2_T48_50326417114.dita#Section_970_1504_2_T48_50326417114">970.1504-2 Price negotiation.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_970_1504_3_T48_50326417115.dita#Section_970_1504_3_T48_50326417115">970.1504-3 Documentation.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_970_1504_3_1_T48_50326417116.dita#Section_970_1504_3_1_T48_50326417116">970.1504-3-1 Cost or pricing data.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_970_1504_4_T48_50326417117.dita#Section_970_1504_4_T48_50326417117">970.1504-4 Special cost or pricing areas.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_970_1504_4_1_970_1504_4_3_T48_50326417118.dita#Section_970_1504_4_1_970_1504_4_3_T48_50326417118">970.1504-4-1--970.1504-4-3 [Reserved]</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_970_1504_5_T48_50326417119.dita#Section_970_1504_5_T48_50326417119">970.1504-5 Solicitation provision and contract clauses.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="Subpart_970_17_T48_50326418.dita#Subpart_970_17_T48_50326418">Subpart 970.17 - Special Contracting Methods</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_970_1706_T48_5032641811.dita#Section_970_1706_T48_5032641811">970.1706 Management and operating contracts.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_970_1706_1_T48_5032641812.dita#Section_970_1706_1_T48_5032641812">970.1706-1 Award, renewal, and extension.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_970_1706_2_T48_5032641813.dita#Section_970_1706_2_T48_5032641813">970.1706-2 Contract clause.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_970_1707_T48_5032641814.dita#Section_970_1707_T48_5032641814">970.1707 Strategic Partnership Projects.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_970_1707_1_T48_5032641815.dita#Section_970_1707_1_T48_5032641815">970.1707-1 Scope.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_970_1707_2_T48_5032641816.dita#Section_970_1707_2_T48_5032641816">970.1707-2 Purpose.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_970_1707_3_T48_5032641817.dita#Section_970_1707_3_T48_5032641817">970.1707-3 Terms governing Strategic Partnership Projects.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_970_1707_4_T48_5032641818.dita#Section_970_1707_4_T48_5032641818">970.1707-4 Contract clause.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="Subpart_970_19_T48_50326419.dita#Subpart_970_19_T48_50326419">Subpart 970.19 - Small Business Programs</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_970_1907_T48_5032641911.dita#Section_970_1907_T48_5032641911">970.1907 The Small Business Subcontracting Program.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_970_1907_4_T48_5032641912.dita#Section_970_1907_4_T48_5032641912">970.1907-4 Subcontracting plan requirements.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="Subpart_970_22_T48_503264110.dita#Subpart_970_22_T48_503264110">Subpart 970.22 - Application of Labor Policies</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_970_2200_T48_50326411011.dita#Section_970_2200_T48_50326411011">970.2200 Scope of subpart.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_970_2201_T48_50326411012.dita#Section_970_2201_T48_50326411012">970.2201 Basic labor policies.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_970_2201_1_T48_50326411013.dita#Section_970_2201_1_T48_50326411013">970.2201-1 Labor relations.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_970_2201_1_1_T48_50326411014.dita#Section_970_2201_1_1_T48_50326411014">970.2201-1-1 General.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_970_2201_1_2_T48_50326411015.dita#Section_970_2201_1_2_T48_50326411015">970.2201-1-2 Policies.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_970_2201_1_3_T48_50326411016.dita#Section_970_2201_1_3_T48_50326411016">970.2201-1-3 Contract clause.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_970_2201_2_T48_50326411017.dita#Section_970_2201_2_T48_50326411017">970.2201-2 Overtime management.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_970_2201_2_1_T48_50326411018.dita#Section_970_2201_2_1_T48_50326411018">970.2201-2-1 Policy.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_970_2201_2_2_T48_50326411019.dita#Section_970_2201_2_2_T48_50326411019">970.2201-2-2 Contract clause.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_970_2204_T48_503264110110.dita#Section_970_2204_T48_503264110110">970.2204 Labor standards for contracts involving construction.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_970_2204_1_T48_503264110111.dita#Section_970_2204_1_T48_503264110111">970.2204-1 Statutory and regulatory requirements.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_970_2204_1_1_T48_503264110112.dita#Section_970_2204_1_1_T48_503264110112">970.2204-1-1 Administrative controls and criteria for application of the Davis-Bacon Act in operational or maintenance activities.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_970_2208_T48_503264110113.dita#Section_970_2208_T48_503264110113">970.2208 Equal employment opportunity.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_970_2210_T48_503264110114.dita#Section_970_2210_T48_503264110114">970.2210 Service Contract Act.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_970_2270_T48_503264110115.dita#Section_970_2270_T48_503264110115">970.2270 Unemployment compensation.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="Subpart_970_23_T48_503264111.dita#Subpart_970_23_T48_503264111">Subpart 970.23 - Environment, Energy and Water Efficiency, Renewable Energy Technologies, Occupational Safety and Drug-Free Work Place</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_970_2301_T48_50326411111.dita#Section_970_2301_T48_50326411111">970.2301 Sustainable acquisition.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_970_2301_1_T48_50326411112.dita#Section_970_2301_1_T48_50326411112">970.2301-1 Policy.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_970_2301_2_T48_50326411113.dita#Section_970_2301_2_T48_50326411113">970.2301-2 Contract clauses.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_970_2303_T48_50326411114.dita#Section_970_2303_T48_50326411114">970.2303 Hazardous materials identification and material safety.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_970_2303_2_70_T48_50326411115.dita#Section_970_2303_2_70_T48_50326411115">970.2303-2-70 General.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_970_2303_3_T48_50326411116.dita#Section_970_2303_3_T48_50326411116">970.2303-3 Contract clauses.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_970_2305_T48_50326411117.dita#Section_970_2305_T48_50326411117">970.2305 Workplace substance abuse programs - management and operating contracts.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_970_2305_1_T48_50326411118.dita#Section_970_2305_1_T48_50326411118">970.2305-1 General.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_970_2305_2_T48_50326411119.dita#Section_970_2305_2_T48_50326411119">970.2305-2 Applicability.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_970_2305_3_T48_503264111110.dita#Section_970_2305_3_T48_503264111110">970.2305-3 Definitions.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_970_2305_4_T48_503264111111.dita#Section_970_2305_4_T48_503264111111">970.2305-4 Solicitation provision and contract clause.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_970_2306_T48_503264111112.dita#Section_970_2306_T48_503264111112">970.2306 Suspension of payments, termination of contract, and debarment and suspension actions.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="Subpart_970_25_T48_503264112.dita#Subpart_970_25_T48_503264112">Subpart 970.25 - Foreign Acquisition</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_970_2570_T48_50326411211.dita#Section_970_2570_T48_50326411211">970.2570 Buy American Act.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_970_2570_1_T48_50326411212.dita#Section_970_2570_1_T48_50326411212">970.2570-1 Contract clause.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_970_2571_T48_50326411213.dita#Section_970_2571_T48_50326411213">970.2571 Export control.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_970_2571_1_T48_50326411214.dita#Section_970_2571_1_T48_50326411214">970.2571-1 Scope of subpart.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_970_2571_2_T48_50326411215.dita#Section_970_2571_2_T48_50326411215">970.2571-2 Policy.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_970_2571_3_T48_50326411216.dita#Section_970_2571_3_T48_50326411216">970.2571-3 Contract clause.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="Subpart_970_26_T48_503264113.dita#Subpart_970_26_T48_503264113">Subpart 970.26 - Other Socioeconomic Programs</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_970_2670_T48_50326411311.dita#Section_970_2670_T48_50326411311">970.2670 Implementation of Section 3021 of the Energy Policy Act of 1992.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_970_2670_1_T48_50326411312.dita#Section_970_2670_1_T48_50326411312">970.2670-1 Requirements.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_970_2671_T48_50326411313.dita#Section_970_2671_T48_50326411313">970.2671 Diversity.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_970_2671_1_T48_50326411314.dita#Section_970_2671_1_T48_50326411314">970.2671-1 Policy.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_970_2671_2_T48_50326411315.dita#Section_970_2671_2_T48_50326411315">970.2671-2 Contract clause.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_970_2672_T48_50326411316.dita#Section_970_2672_T48_50326411316">970.2672 Implementation of Section 3161 of the National Defense Authorization Act for Fiscal Year 1993.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_970_2672_1_T48_50326411317.dita#Section_970_2672_1_T48_50326411317">970.2672-1 Policy.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_970_2672_2_T48_50326411318.dita#Section_970_2672_2_T48_50326411318">970.2672-2 Requirements.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_970_2672_3_T48_50326411319.dita#Section_970_2672_3_T48_50326411319">970.2672-3 Contract clause.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_970_2673_T48_503264113110.dita#Section_970_2673_T48_503264113110">970.2673 Regional partnerships.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_970_2673_1_T48_503264113111.dita#Section_970_2673_1_T48_503264113111">970.2673-1 Policy.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_970_2673_2_T48_503264113112.dita#Section_970_2673_2_T48_503264113112">970.2673-2 Contract clause.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="Subpart_970_27_T48_503264114.dita#Subpart_970_27_T48_503264114">Subpart 970.27 - Patents, Data, and Copyrights</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_970_2701_T48_50326411411.dita#Section_970_2701_T48_50326411411">970.2701 General.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_970_2701_1_T48_50326411412.dita#Section_970_2701_1_T48_50326411412">970.2701-1 Applicability.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_970_2702_T48_50326411413.dita#Section_970_2702_T48_50326411413">970.2702 Patent related clauses.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_970_2702_1_T48_50326411414.dita#Section_970_2702_1_T48_50326411414">970.2702-1 Authorization and consent.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_970_2702_2_T48_50326411415.dita#Section_970_2702_2_T48_50326411415">970.2702-2 Notice and assistance regarding patent and copyright infringement.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_970_2702_3_T48_50326411416.dita#Section_970_2702_3_T48_50326411416">970.2702-3 Patent indemnity.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_970_2702_4_T48_50326411417.dita#Section_970_2702_4_T48_50326411417">970.2702-4 Royalties.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_970_2702_5_T48_50326411418.dita#Section_970_2702_5_T48_50326411418">970.2702-5 Rights to proposal data.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_970_2702_6_T48_50326411419.dita#Section_970_2702_6_T48_50326411419">970.2702-6 Notice of right to request patent waiver.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_970_2703_T48_503264114110.dita#Section_970_2703_T48_503264114110">970.2703 Patent rights.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_970_2703_1_T48_503264114111.dita#Section_970_2703_1_T48_503264114111">970.2703-1 Purposes of patent rights clauses.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_970_2703_2_T48_503264114112.dita#Section_970_2703_2_T48_503264114112">970.2703-2 Patent rights clause provisions for management and operating contractors.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_970_2704_T48_503264114113.dita#Section_970_2704_T48_503264114113">970.2704 Rights in data.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_970_2704_1_T48_503264114114.dita#Section_970_2704_1_T48_503264114114">970.2704-1 General.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_970_2704_2_T48_503264114115.dita#Section_970_2704_2_T48_503264114115">970.2704-2 Procedures.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_970_2704_3_T48_503264114116.dita#Section_970_2704_3_T48_503264114116">970.2704-3 Contract clauses.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_970_2770_T48_503264114117.dita#Section_970_2770_T48_503264114117">970.2770 Technology Transfer.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_970_2770_1_T48_503264114118.dita#Section_970_2770_1_T48_503264114118">970.2770-1 General.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_970_2770_2_T48_503264114119.dita#Section_970_2770_2_T48_503264114119">970.2770-2 Policy.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_970_2770_3_T48_503264114120.dita#Section_970_2770_3_T48_503264114120">970.2770-3 Technology transfer and patent rights.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_970_2770_4_T48_503264114121.dita#Section_970_2770_4_T48_503264114121">970.2770-4 Contract clause.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="Subpart_970_28_T48_503264115.dita#Subpart_970_28_T48_503264115">Subpart 970.28 - Bonds and Insurance</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_970_2803_T48_50326411511.dita#Section_970_2803_T48_50326411511">970.2803 Insurance.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_970_2803_1_T48_50326411512.dita#Section_970_2803_1_T48_50326411512">970.2803-1 Workers' Compensation Insurance.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_970_2803_2_T48_50326411513.dita#Section_970_2803_2_T48_50326411513">970.2803-2 Contract clause.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="Subpart_970_29_T48_503264116.dita#Subpart_970_29_T48_503264116">Subpart 970.29 - Taxes</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_970_2902_T48_50326411611.dita#Section_970_2902_T48_50326411611">970.2902 Federal excise taxes.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_970_2902_3_T48_50326411612.dita#Section_970_2902_3_T48_50326411612">970.2902-3 Other Federal tax exemptions.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_970_2903_T48_50326411613.dita#Section_970_2903_T48_50326411613">970.2903 State and local taxes.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_970_2903_2_T48_50326411614.dita#Section_970_2903_2_T48_50326411614">970.2903-2 Application of State and local taxes to the Government.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_970_2904_T48_50326411615.dita#Section_970_2904_T48_50326411615">970.2904 Contract clauses.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_970_2904_1_T48_50326411616.dita#Section_970_2904_1_T48_50326411616">970.2904-1 Management and operating contracts.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="Subpart_970_30_T48_503264117.dita#Subpart_970_30_T48_503264117">Subpart 970.30 - Cost Accounting Standards Administration</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_970_3002_T48_50326411711.dita#Section_970_3002_T48_50326411711">970.3002 CAS program requirements.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_970_3002_1_T48_50326411712.dita#Section_970_3002_1_T48_50326411712">970.3002-1 CAS applicability.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="Subpart_970_31_T48_503264118.dita#Subpart_970_31_T48_503264118">Subpart 970.31 - Contract Cost Principles and Procedures</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_970_3101_00_70_T48_50326411811.dita#Section_970_3101_00_70_T48_50326411811">970.3101-00-70 Scope of subpart.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_970_3101_9_T48_50326411812.dita#Section_970_3101_9_T48_50326411812">970.3101-9 Advance agreements.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_970_3101_10_T48_50326411813.dita#Section_970_3101_10_T48_50326411813">970.3101-10 Indirect cost rate certification and penalties on unallowable costs.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_970_3102_3_70_T48_50326411814.dita#Section_970_3102_3_70_T48_50326411814">970.3102-3-70 Home office expenses.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_970_3102_05_T48_50326411815.dita#Section_970_3102_05_T48_50326411815">970.3102-05 Selected costs.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_970_3102_05_4_T48_50326411816.dita#Section_970_3102_05_4_T48_50326411816">970.3102-05-4 Bonding costs.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_970_3102_05_6_T48_50326411817.dita#Section_970_3102_05_6_T48_50326411817">970.3102-05-6 Compensation for personal services.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_970_3102_05_18_T48_50326411818.dita#Section_970_3102_05_18_T48_50326411818">970.3102-05-18 Independent research and development and bid and proposal costs.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_970_3102_05_19_T48_50326411819.dita#Section_970_3102_05_19_T48_50326411819">970.3102-05-19 Insurance and indemnification.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_970_3102_05_22_T48_503264118110.dita#Section_970_3102_05_22_T48_503264118110">970.3102-05-22 Lobbying and political activity costs.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_970_3102_05_28_T48_503264118111.dita#Section_970_3102_05_28_T48_503264118111">970.3102-05-28 Other business expenses.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_970_3102_05_30_T48_503264118112.dita#Section_970_3102_05_30_T48_503264118112">970.3102-05-30 Patent costs.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_970_3102_05_30_70_T48_503264118113.dita#Section_970_3102_05_30_70_T48_503264118113">970.3102-05-30-70 Patent costs and technology transfer costs.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_970_3102_05_33_T48_503264118114.dita#Section_970_3102_05_33_T48_503264118114">970.3102-05-33 Professional and consultant service costs.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_970_3102_05_46_T48_503264118115.dita#Section_970_3102_05_46_T48_503264118115">970.3102-05-46 Travel costs.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_970_3102_05_47_T48_503264118116.dita#Section_970_3102_05_47_T48_503264118116">970.3102-05-47 Costs related to legal and other proceedings.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_970_3102_05_70_T48_503264118117.dita#Section_970_3102_05_70_T48_503264118117">970.3102-05-70 Preexisting conditions.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_970_3170_T48_503264118118.dita#Section_970_3170_T48_503264118118">970.3170 Contract clause.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="Subpart_970_32_T48_503264119.dita#Subpart_970_32_T48_503264119">Subpart 970.32 - Contract Financing</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_970_3200_T48_50326411911.dita#Section_970_3200_T48_50326411911">970.3200 Policy.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_970_3200_1_T48_50326411912.dita#Section_970_3200_1_T48_50326411912">970.3200-1 Reduction or suspension of advance, partial, or progress payments.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_970_3200_1_1_T48_50326411913.dita#Section_970_3200_1_1_T48_50326411913">970.3200-1-1 Contract clause.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_970_3204_T48_50326411914.dita#Section_970_3204_T48_50326411914">970.3204 Advance payments.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_970_3204_1_T48_50326411915.dita#Section_970_3204_1_T48_50326411915">970.3204-1 Applicability.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_970_3270_T48_50326411916.dita#Section_970_3270_T48_50326411916">970.3270 Standard financial management clauses.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="Subpart_970_34_T48_503264120.dita#Subpart_970_34_T48_503264120">Subpart 970.34 - Major System Acquisition</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_970_3405_T48_50326412011.dita#Section_970_3405_T48_50326412011">970.3405 General requirements.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_970_3405_2_T48_50326412012.dita#Section_970_3405_2_T48_50326412012">970.3405-2 Mission-oriented solicitation.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_970_35_T48_50326412013.dita#Section_970_35_T48_50326412013">970.35 Research and development contracting.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="Subpart_970_35_T48_503264121.dita#Subpart_970_35_T48_503264121">Subpart 970.35 - Research and Development Contracting</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_970_3500_T48_50326412111.dita#Section_970_3500_T48_50326412111">970.3500 Scope of subpart.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_970_3501_T48_50326412112.dita#Section_970_3501_T48_50326412112">970.3501 Federally funded research and development centers.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_970_3501_1_T48_50326412113.dita#Section_970_3501_1_T48_50326412113">970.3501-1 Sponsoring agreements.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_970_3501_2_T48_50326412114.dita#Section_970_3501_2_T48_50326412114">970.3501-2 Using an FFRDC.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_970_3501_3_T48_50326412115.dita#Section_970_3501_3_T48_50326412115">970.3501-3 Reviewing FFRDC's.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_970_3501_4_T48_50326412116.dita#Section_970_3501_4_T48_50326412116">970.3501-4 Contract clause.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="Subpart_970_36_T48_503264122.dita#Subpart_970_36_T48_503264122">Subpart 970.36 - Construction and Architect-Engineer Contracts</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_970_3605_T48_50326412211.dita#Section_970_3605_T48_50326412211">970.3605 Contract clauses.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_970_3605_1_T48_50326412212.dita#Section_970_3605_1_T48_50326412212">970.3605-1 Other contracts.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_970_3605_2_T48_50326412213.dita#Section_970_3605_2_T48_50326412213">970.3605-2 Special construction clause for operating contracts.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="Subpart_970_37_T48_503264123.dita#Subpart_970_37_T48_503264123">Subpart 970.37 - Facilities Management Contracting</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_970_3706_T48_50326412311.dita#Section_970_3706_T48_50326412311">970.3706 Performance-based acquisition.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_970_3706_1_T48_50326412312.dita#Section_970_3706_1_T48_50326412312">970.3706-1 General.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_970_3770_T48_50326412313.dita#Section_970_3770_T48_50326412313">970.3770 Facilities management.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_970_3770_1_T48_50326412314.dita#Section_970_3770_1_T48_50326412314">970.3770-1 Policy.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_970_3770_2_T48_50326412315.dita#Section_970_3770_2_T48_50326412315">970.3770-2 [Reserved]</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="Subpart_970_41_T48_503264124.dita#Subpart_970_41_T48_503264124">Subpart 970.41 - Acquisition of Utility Services</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_970_4102_T48_50326412411.dita#Section_970_4102_T48_50326412411">970.4102 Acquiring utility services.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_970_4102_1_T48_50326412412.dita#Section_970_4102_1_T48_50326412412">970.4102-1 Policy.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="Subpart_970_42_T48_503264125.dita#Subpart_970_42_T48_503264125">Subpart 970.42 - Contract Administration</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_970_4207_03_02_T48_50326412511.dita#Section_970_4207_03_02_T48_50326412511">970.4207-03-02 Certificate of costs.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_970_4207_03_70_T48_50326412512.dita#Section_970_4207_03_70_T48_50326412512">970.4207-03-70 Contract clause.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_970_4207_05_01_T48_50326412513.dita#Section_970_4207_05_01_T48_50326412513">970.4207-05-01 Contracting officer determination procedure.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="Subpart_970_43_T48_503264126.dita#Subpart_970_43_T48_503264126">Subpart 970.43 - Contract Modifications</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_970_4302_T48_50326412611.dita#Section_970_4302_T48_50326412611">970.4302 Changes.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_970_4302_1_T48_50326412612.dita#Section_970_4302_1_T48_50326412612">970.4302-1 Contract clause.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="Subpart_970_44_T48_503264127.dita#Subpart_970_44_T48_503264127">Subpart 970.44 - Management and Operating Contractor Purchasing</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_970_4400_T48_50326412711.dita#Section_970_4400_T48_50326412711">970.4400 Scope.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_970_4401_T48_50326412712.dita#Section_970_4401_T48_50326412712">970.4401 Responsibilities.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_970_4401_1_T48_50326412713.dita#Section_970_4401_1_T48_50326412713">970.4401-1 General.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_970_4401_2_T48_50326412714.dita#Section_970_4401_2_T48_50326412714">970.4401-2 Review and approval.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_970_4401_3_T48_50326412715.dita#Section_970_4401_3_T48_50326412715">970.4401-3 Advance notification.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_970_4402_T48_50326412716.dita#Section_970_4402_T48_50326412716">970.4402 Contractor purchasing system.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_970_4402_1_T48_50326412717.dita#Section_970_4402_1_T48_50326412717">970.4402-1 Policy.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_970_4402_2_T48_50326412718.dita#Section_970_4402_2_T48_50326412718">970.4402-2 General requirements.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_970_4402_3_T48_50326412719.dita#Section_970_4402_3_T48_50326412719">970.4402-3 Purchasing from contractor-affiliated sources.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_970_4402_4_T48_503264127110.dita#Section_970_4402_4_T48_503264127110">970.4402-4 Nuclear material transfers.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_970_4403_T48_503264127111.dita#Section_970_4403_T48_503264127111">970.4403 Contract clause.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="Subpart_970_45_T48_503264128.dita#Subpart_970_45_T48_503264128">Subpart 970.45 - Government Property</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_970_4501_T48_50326412811.dita#Section_970_4501_T48_50326412811">970.4501 General.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_970_4501_1_T48_50326412812.dita#Section_970_4501_1_T48_50326412812">970.4501-1 Contract clause.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="Subpart_970_49_T48_503264129.dita#Subpart_970_49_T48_503264129">Subpart 970.49 - Termination of Contracts</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_970_4905_T48_50326412911.dita#Section_970_4905_T48_50326412911">970.4905 Contract termination clause.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_970_4905_1_T48_50326412912.dita#Section_970_4905_1_T48_50326412912">970.4905-1 Termination for convenience of the government and default.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="Subpart_970_50_T48_503264130.dita#Subpart_970_50_T48_503264130">Subpart 970.50 - Extraordinary Contractual Actions and the Safety Act</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_970_5001_T48_50326413011.dita#Section_970_5001_T48_50326413011">970.5001 Residual powers.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_970_5001_4_T48_50326413012.dita#Section_970_5001_4_T48_50326413012">970.5001-4 Contract clause.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_970_5070_T48_50326413013.dita#Section_970_5070_T48_50326413013">970.5070 Indemnification.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_970_5070_1_T48_50326413014.dita#Section_970_5070_1_T48_50326413014">970.5070-1 Scope and applicability.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_970_5070_2_T48_50326413015.dita#Section_970_5070_2_T48_50326413015">970.5070-2 General.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_970_5070_3_T48_50326413016.dita#Section_970_5070_3_T48_50326413016">970.5070-3 Contract clauses.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="Subpart_970_52_T48_503264131.dita#Subpart_970_52_T48_503264131">Subpart 970.52 - Solicitation Provisions and Contract Clauses for Management and Operating Contracts</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_970_5200_T48_50326413111.dita#Section_970_5200_T48_50326413111">970.5200 Scope of subpart.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_970_5201_T48_50326413112.dita#Section_970_5201_T48_50326413112">970.5201 Text of provisions and clauses.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_970_5203_1_T48_50326413113.dita#Section_970_5203_1_T48_50326413113">970.5203-1 Management controls.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_970_5203_2_T48_50326413114.dita#Section_970_5203_2_T48_50326413114">970.5203-2 Performance improvement and collaboration.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_970_5203_3_T48_50326413115.dita#Section_970_5203_3_T48_50326413115">970.5203-3 Contractor's organization.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_970_5204_1_T48_50326413116.dita#Section_970_5204_1_T48_50326413116">970.5204-1 Counterintelligence.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_970_5204_2_T48_50326413117.dita#Section_970_5204_2_T48_50326413117">970.5204-2 Laws, regulations, and DOE directives.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_970_5204_3_T48_50326413118.dita#Section_970_5204_3_T48_50326413118">970.5204-3 Access to and ownership of records.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_970_5208_1_T48_50326413119.dita#Section_970_5208_1_T48_50326413119">970.5208-1 Printing.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_970_5209_1_T48_503264131110.dita#Section_970_5209_1_T48_503264131110">970.5209-1 Requirement for guarantee of performance.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_970_5211_1_T48_503264131111.dita#Section_970_5211_1_T48_503264131111">970.5211-1 Work authorization.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_970_5215_1_T48_503264131112.dita#Section_970_5215_1_T48_503264131112">970.5215-1 Total available fee: Base fee amount and performance fee amount.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_970_5215_2_T48_503264131113.dita#Section_970_5215_2_T48_503264131113">970.5215-2 [Reserved]</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_970_5215_3_T48_503264131114.dita#Section_970_5215_3_T48_503264131114">970.5215-3 Conditional payment of fee, profit, and other incentives - facility management contracts</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_970_5215_4_T48_503264131115.dita#Section_970_5215_4_T48_503264131115">970.5215-4 Cost reduction.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_970_5215_5_T48_503264131116.dita#Section_970_5215_5_T48_503264131116">970.5215-5 Limitation on fee.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_970_5217_1_T48_503264131117.dita#Section_970_5217_1_T48_503264131117">970.5217-1 Strategic Partnership Projects Program.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_970_5222_1_T48_503264131118.dita#Section_970_5222_1_T48_503264131118">970.5222-1 Collective Bargaining Agreements Management and Operating Contracts.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_970_5222_2_T48_503264131119.dita#Section_970_5222_2_T48_503264131119">970.5222-2 Overtime management.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_970_5223_1_T48_503264131120.dita#Section_970_5223_1_T48_503264131120">970.5223-1 Integration of environment, safety, and health into work planning and execution.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_970_5223_3_T48_503264131121.dita#Section_970_5223_3_T48_503264131121">970.5223-3 Agreement regarding Workplace Substance Abuse Programs at DOE sites.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_970_5223_4_T48_503264131122.dita#Section_970_5223_4_T48_503264131122">970.5223-4 Workplace Substance Abuse Programs at DOE Sites.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_970_5223_6_T48_503264131123.dita#Section_970_5223_6_T48_503264131123">970.5223-6 Executive Order 13423, Strengthening Federal Environmental, Energy, and Transportation Management.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_970_5223_7_T48_503264131124.dita#Section_970_5223_7_T48_503264131124">970.5223-7 Sustainable acquisition program.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_970_5225_1_T48_503264131125.dita#Section_970_5225_1_T48_503264131125">970.5225-1 Compliance with export control laws and regulations (Export Clause).</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_970_5226_1_T48_503264131126.dita#Section_970_5226_1_T48_503264131126">970.5226-1 Diversity plan.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_970_5226_2_T48_503264131127.dita#Section_970_5226_2_T48_503264131127">970.5226-2 Workforce restructuring under section 3161 of the National Defense Authorization Act for fiscal year 1993.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_970_5226_3_T48_503264131128.dita#Section_970_5226_3_T48_503264131128">970.5226-3 Community commitment.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_970_5227_1_T48_503264131129.dita#Section_970_5227_1_T48_503264131129">970.5227-1 Rights in data-facilities.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_970_5227_2_T48_503264131130.dita#Section_970_5227_2_T48_503264131130">970.5227-2 Rights in data-technology transfer.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_970_5227_3_T48_503264131131.dita#Section_970_5227_3_T48_503264131131">970.5227-3 Technology transfer mission.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_970_5227_4_T48_503264131132.dita#Section_970_5227_4_T48_503264131132">970.5227-4 Authorization and consent.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_970_5227_5_T48_503264131133.dita#Section_970_5227_5_T48_503264131133">970.5227-5 Notice and assistance regarding patent and copyright infringement.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_970_5227_6_T48_503264131134.dita#Section_970_5227_6_T48_503264131134">970.5227-6 Patent indemnity - subcontracts.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_970_5227_7_T48_503264131135.dita#Section_970_5227_7_T48_503264131135">970.5227-7 Royalty information.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_970_5227_8_T48_503264131136.dita#Section_970_5227_8_T48_503264131136">970.5227-8 Refund of royalties.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_970_5227_9_T48_503264131137.dita#Section_970_5227_9_T48_503264131137">970.5227-9 Notice of right to request patent waiver.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_970_5227_10_T48_503264131138.dita#Section_970_5227_10_T48_503264131138">970.5227-10 Patent rights - management and operating contracts, nonprofit organization or small business firm contractor.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_970_5227_11_T48_503264131139.dita#Section_970_5227_11_T48_503264131139">970.5227-11 Patent rights - management and operating contracts, for-profit contractor, non-technology transfer.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_970_5227_12_T48_503264131140.dita#Section_970_5227_12_T48_503264131140">970.5227-12 Patent rights - management and operating contracts, for-profit contractor, advance class waiver.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_970_5228_1_T48_503264131141.dita#Section_970_5228_1_T48_503264131141">970.5228-1 Insurance - litigation and claims.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_970_5229_1_T48_503264131142.dita#Section_970_5229_1_T48_503264131142">970.5229-1 State and local taxes.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_970_5231_4_T48_503264131143.dita#Section_970_5231_4_T48_503264131143">970.5231-4 Preexisting conditions.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_970_5232_1_T48_503264131144.dita#Section_970_5232_1_T48_503264131144">970.5232-1 Reduction or suspension of advance, partial, or progress payments upon finding of substantial evidence of fraud.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_970_5232_2_T48_503264131145.dita#Section_970_5232_2_T48_503264131145">970.5232-2 Payments and advances.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_970_5232_3_T48_503264131146.dita#Section_970_5232_3_T48_503264131146">970.5232-3 Accounts, records, and inspection.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_970_5232_4_T48_503264131147.dita#Section_970_5232_4_T48_503264131147">970.5232-4 Obligation of funds.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_970_5232_5_T48_503264131148.dita#Section_970_5232_5_T48_503264131148">970.5232-5 Liability with respect to cost accounting standards.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_970_5232_6_T48_503264131149.dita#Section_970_5232_6_T48_503264131149">970.5232-6 Strategic partnership project funding authorization.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_970_5232_7_T48_503264131150.dita#Section_970_5232_7_T48_503264131150">970.5232-7 Financial management system.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_970_5232_8_T48_503264131151.dita#Section_970_5232_8_T48_503264131151">970.5232-8 Integrated accounting.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_970_5235_1_T48_503264131152.dita#Section_970_5235_1_T48_503264131152">970.5235-1 Federally funded research and development center sponsoring agreement.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_970_5236_1_T48_503264131153.dita#Section_970_5236_1_T48_503264131153">970.5236-1 Government facility subcontract approval.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_970_5237_2_T48_503264131154.dita#Section_970_5237_2_T48_503264131154">970.5237-2 [Reserved]</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_970_5242_1_T48_503264131155.dita#Section_970_5242_1_T48_503264131155">970.5242-1 Penalties for unallowable costs.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_970_5243_1_T48_503264131156.dita#Section_970_5243_1_T48_503264131156">970.5243-1 Changes.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_970_5244_1_T48_503264131157.dita#Section_970_5244_1_T48_503264131157">970.5244-1 Contractor purchasing system.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_970_5245_1_T48_503264131158.dita#Section_970_5245_1_T48_503264131158">970.5245-1 Property.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+         </ul>
+      </body>
+   </topic>
+</dita>

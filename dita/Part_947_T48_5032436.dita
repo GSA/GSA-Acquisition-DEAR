@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <topic id="Part_947_T48_5032436">
+      <title class="- topic/title ">
+         <ph props="autonumber">PART 947</ph> - TRANSPORTATION</title>
+      <body>
+         <p>
+            <ph class="- topic/ph ">Authority: </ph>
+                           42 U.S.C. 7101  and 50 U.S.C. 2401 
+                           
+                        </p>
+         <p>
+            <ph class="- topic/ph ">Source: </ph>
+                           49 FR 12038, Mar. 28, 1984, unless otherwise noted.
+
+
+
+                        </p>
+         <ul otherprops="TOC">
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="Subpart_947_70_T48_50324361.dita#Subpart_947_70_T48_50324361">Subpart 947.70 - Foreign Travel</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_947_7000_T48_5032436111.dita#Section_947_7000_T48_5032436111">947.7000 [Reserved]</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_947_7001_T48_5032436112.dita#Section_947_7001_T48_5032436112">947.7001 Policy.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_947_7002_T48_5032436113.dita#Section_947_7002_T48_5032436113">947.7002 Contract clause.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+         </ul>
+      </body>
+   </topic>
+</dita>

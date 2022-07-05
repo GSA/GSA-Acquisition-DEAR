@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <topic id="Part_915_T48_5032015">
+      <title class="- topic/title ">
+         <ph props="autonumber">PART 915</ph> - CONTRACTING BY NEGOTIATION</title>
+      <body>
+         <p>
+            <ph class="- topic/ph ">Authority: </ph>
+                           42 U.S.C. 7101  and 50 U.S.C. 2401 
+                           
+                        </p>
+         <p>
+            <ph class="- topic/ph ">Source: </ph>
+                           63 FR 56851, Oct. 23, 1998, unless otherwise noted.
+
+
+
+                        </p>
+         <ul otherprops="TOC">
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="Subpart_915_2_T48_50320151.dita#Subpart_915_2_T48_50320151">Subpart 915.2 - Solicitation and Receipt of Proposals and Information</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_915_200_T48_5032015111.dita#Section_915_200_T48_5032015111">915.200 Scope of subpart.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_915_201_T48_5032015112.dita#Section_915_201_T48_5032015112">915.201 Exchanges with industry before receipt of proposals.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_915_207_T48_5032015113.dita#Section_915_207_T48_5032015113">915.207 Handling proposals and information.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_915_207_70_T48_5032015114.dita#Section_915_207_70_T48_5032015114">915.207-70 Handling proposals and information during evaluation.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="Subpart_915_3_T48_50320152.dita#Subpart_915_3_T48_50320152">Subpart 915.3 - Source Selection</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_915_305_T48_5032015211.dita#Section_915_305_T48_5032015211">915.305 Proposal evaluation.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="Subpart_915_4_T48_50320153.dita#Subpart_915_4_T48_50320153">Subpart 915.4 - Contract Pricing</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_915_404_T48_5032015311.dita#Section_915_404_T48_5032015311">915.404 Proposal analysis.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_915_404_2_T48_5032015312.dita#Section_915_404_2_T48_5032015312">915.404-2 Information to support proposal analysis.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_915_404_2_70_T48_5032015313.dita#Section_915_404_2_70_T48_5032015313">915.404-2-70 Audit as an aid in proposal analysis.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_915_404_4_T48_5032015314.dita#Section_915_404_4_T48_5032015314">915.404-4 Profit.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_915_404_4_70_T48_5032015315.dita#Section_915_404_4_70_T48_5032015315">915.404-4-70 DOE structured profit and fee system.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_915_404_4_70_1_T48_5032015316.dita#Section_915_404_4_70_1_T48_5032015316">915.404-4-70-1 General.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_915_404_4_70_2_T48_5032015317.dita#Section_915_404_4_70_2_T48_5032015317">915.404-4-70-2 Weighted guidelines system.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_915_404_4_70_3_T48_5032015318.dita#Section_915_404_4_70_3_T48_5032015318">915.404-4-70-3 Documentation.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_915_404_4_70_4_T48_5032015319.dita#Section_915_404_4_70_4_T48_5032015319">915.404-4-70-4 Exceptions.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_915_404_4_70_5_T48_50320153110.dita#Section_915_404_4_70_5_T48_50320153110">915.404-4-70-5 Special considerations - contracts with nonprofit organizations (other than educational institutions).</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_915_404_4_70_6_T48_50320153111.dita#Section_915_404_4_70_6_T48_50320153111">915.404-4-70-6 Contracts with educational institutions.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_915_404_4_70_7_T48_50320153112.dita#Section_915_404_4_70_7_T48_50320153112">915.404-4-70-7 Alternative techniques.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_915_404_4_70_8_T48_50320153113.dita#Section_915_404_4_70_8_T48_50320153113">915.404-4-70-8 Weighted guidelines application considerations.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_915_404_4_71_T48_50320153114.dita#Section_915_404_4_71_T48_50320153114">915.404-4-71 Profit and fee-system for construction and construction management contracts.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_915_404_4_71_1_T48_50320153115.dita#Section_915_404_4_71_1_T48_50320153115">915.404-4-71-1 General.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_915_404_4_71_2_T48_50320153116.dita#Section_915_404_4_71_2_T48_50320153116">915.404-4-71-2 Limitations.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_915_404_4_71_3_T48_50320153117.dita#Section_915_404_4_71_3_T48_50320153117">915.404-4-71-3 Factors for determining fees.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_915_404_4_71_4_T48_50320153118.dita#Section_915_404_4_71_4_T48_50320153118">915.404-4-71-4 Considerations affecting fee amounts.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_915_404_4_71_5_T48_50320153119.dita#Section_915_404_4_71_5_T48_50320153119">915.404-4-71-5 Fee schedules.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_915_404_4_71_6_T48_50320153120.dita#Section_915_404_4_71_6_T48_50320153120">915.404-4-71-6 Fee base.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_915_404_4_72_T48_50320153121.dita#Section_915_404_4_72_T48_50320153121">915.404-4-72 Special considerations for cost-plus-award-fee contracts.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_915_408_T48_50320153122.dita#Section_915_408_T48_50320153122">915.408 Solicitation provisions and contract clauses.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_915_408_70_T48_50320153123.dita#Section_915_408_70_T48_50320153123">915.408-70 Key personnel clause.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="Subpart_915_6_T48_50320154.dita#Subpart_915_6_T48_50320154">Subpart 915.6 - Unsolicited Proposals</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_915_602_T48_5032015411.dita#Section_915_602_T48_5032015411">915.602 Policy.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_915_603_T48_5032015412.dita#Section_915_603_T48_5032015412">915.603 General.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_915_605_T48_5032015413.dita#Section_915_605_T48_5032015413">915.605 Content of unsolicited proposals.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_915_606_T48_5032015414.dita#Section_915_606_T48_5032015414">915.606 Agency procedures.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_915_607_T48_5032015415.dita#Section_915_607_T48_5032015415">915.607 Criteria for acceptance and negotiation of an unsolicited proposal.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+         </ul>
+      </body>
+   </topic>
+</dita>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <topic id="Part_933_T48_5032228">
+      <title class="- topic/title ">
+         <ph props="autonumber">PART 933</ph> - PROTESTS, DISPUTES, AND APPEALS</title>
+      <body>
+         <p>
+            <ph class="- topic/ph ">Authority: </ph>
+                           42 U.S.C. 7101  and 50 U.S.C. 2401 
+                           
+                        </p>
+         <p>
+            <ph class="- topic/ph ">Source: </ph>
+                           51 FR 31336, Sept. 3, 1986, unless otherwise noted.
+
+
+
+                        </p>
+         <ul otherprops="TOC">
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="Subpart_933_1_T48_50322281.dita#Subpart_933_1_T48_50322281">Subpart 933.1 - Protests</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_933_102_T48_5032228111.dita#Section_933_102_T48_5032228111">933.102 General.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_933_103_T48_5032228112.dita#Section_933_103_T48_5032228112">933.103 Protests to the agency.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_933_104_T48_5032228113.dita#Section_933_104_T48_5032228113">933.104 Protests to GAO.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_933_106_T48_5032228114.dita#Section_933_106_T48_5032228114">933.106 Solicitation provisions.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+         </ul>
+      </body>
+   </topic>
+</dita>

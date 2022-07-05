@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <topic id="Part_939_T48_5032332">
+      <title class="- topic/title ">
+         <ph props="autonumber">PART 939</ph> - ACQUISITION OF INFORMATION TECHNOLOGY</title>
+      <body>
+         <p>
+            <ph class="- topic/ph ">Authority: </ph>
+                           42 U.S.C. 7101  and 50 U.S.C. 2401 
+                           
+                        </p>
+         <p>
+            <ph class="- topic/ph ">Source: </ph>
+                           62 FR 53758, Oct. 16, 1997, unless otherwise noted.
+
+
+
+                        </p>
+         <ul otherprops="TOC">
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="Subpart_939_70_T48_50323321.dita#Subpart_939_70_T48_50323321">Subpart 939.70 - Implementing DOE Policies and Procedures</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_939_7000_T48_5032332111.dita#Section_939_7000_T48_5032332111">939.7000 Scope.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_939_7001_T48_5032332112.dita#Section_939_7001_T48_5032332112">939.7001 [Reserved]</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_939_7002_T48_5032332113.dita#Section_939_7002_T48_5032332113">939.7002 Contractor acquisition of information technology.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+         </ul>
+      </body>
+   </topic>
+</dita>

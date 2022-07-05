@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <topic id="Part_949_T48_5032437">
+      <title class="- topic/title ">
+         <ph props="autonumber">PART 949</ph> - TERMINATION OF CONTRACTS</title>
+      <body>
+         <p>
+            <ph class="- topic/ph ">Authority: </ph>
+                           42 U.S.C. 7101  and 50 U.S.C. 2401 
+                           
+                        </p>
+         <p>
+            <ph class="- topic/ph ">Source: </ph>
+                           49 FR 12038, Mar. 28, 1984, unless otherwise noted.
+
+
+
+                        </p>
+         <ul otherprops="TOC">
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="Subpart_949_1_T48_50324371.dita#Subpart_949_1_T48_50324371">Subpart 949.1 - General Principles</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_949_101_T48_5032437111.dita#Section_949_101_T48_5032437111">949.101 Authorities and responsibilities.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_949_106_T48_5032437112.dita#Section_949_106_T48_5032437112">949.106 Fraud or other criminal conduct.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_949_111_T48_5032437113.dita#Section_949_111_T48_5032437113">949.111 Review of proposed settlements.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="Subpart_949_5_T48_50324372.dita#Subpart_949_5_T48_50324372">Subpart 949.5 [Reserved]</xref>
+               </p>
+            </li>
+         </ul>
+      </body>
+   </topic>
+</dita>
