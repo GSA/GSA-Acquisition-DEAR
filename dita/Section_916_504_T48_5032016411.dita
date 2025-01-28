@@ -6,7 +6,10 @@
       <title class="- topic/title ">
          <ph props="autonumber">916.504</ph> Indefinite-quantity contracts.</title>
       <conbody>
-         <p outputclass="List1">(c) The contracting officer shall establish minimum ordering guarantees with each awardee for all indefinite-quantity, multiple award contracts to ensure that adequate consideration exists to contractually bind each awardee to participate in the ordering process throughout the term of the multiple award contract. Minimum ordering guarantees should be equal among all awardees, and shall be determined on a case-by-case basis for each acquisition commensurate with the size, scope and complexity of the contract requirements.
+         <p props="Runin" outputclass="List1">(a)
+				</p>
+         <p outputclass="List2">(1) 
+			The contracting officer shall establish minimum ordering guarantees with each awardee for all indefinite-quantity, multiple award contracts to ensure that adequate consideration exists to contractually bind each awardee to participate in the ordering process throughout the term of the multiple award contract. Minimum ordering guarantees should be equal among all awardees, and shall be determined on a case-by-case basis for each acquisition commensurate with the size, scope and complexity of the contract requirements.
 </p>
       </conbody>
    </concept>

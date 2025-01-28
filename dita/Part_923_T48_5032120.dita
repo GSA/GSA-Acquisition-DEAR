@@ -3,12 +3,22 @@
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita>
    <topic id="Part_923_T48_5032120">
-      <title class="- topic/title ">
-         <ph props="autonumber">PART 923</ph> - ENVIRONMENT, ENERGY AND WATER EFFICIENCY, RENEWABLE ENERGY TECHNOLOGIES, OCCUPATIONAL SAFETY, AND DRUG-FREE WORKPLACE</title>
+      <title class="- topic/title ">PART 923—ENVIRONMENT, SUSTAINABLE ACQUISITION, AND MATERIAL SAFETY
+
+
+
+
+
+
+</title>
       <body>
          <p>
             <ph class="- topic/ph ">Authority: </ph>
                            42 U.S.C. 7101  and 50 U.S.C. 2401 
+
+
+
+
 
 
                            
@@ -17,31 +27,25 @@
             <li>
                <p>
                   <xref outputclass="fm:TOC"
-                        href="Section_923_002_T48_5032120011.dita#Section_923_002_T48_5032120011">923.002 Policy.</xref>
-               </p>
-            </li>
-            <li>
-               <p>
-                  <xref outputclass="fm:TOC"
-                        href="Subpart_923_1_T48_50321201.dita#Subpart_923_1_T48_50321201">Subpart 923.1 - Sustainable Acquisition</xref>
+                        href="Subpart_923_1_T48_50321201.dita#Subpart_923_1_T48_50321201">Subpart 923.1—Sustainable Acquisition</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_923_101_T48_5032120111.dita#Section_923_101_T48_5032120111">923.101 Policy.</xref>
+                              href="Section_923_170_T48_5032120111.dita#Section_923_170_T48_5032120111">923.170 Policy.</xref>
                      </p>
                   </li>
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_923_102_T48_5032120112.dita#Section_923_102_T48_5032120112">923.102 Applicability to contractors.</xref>
+                              href="Section_923_171_T48_5032120112.dita#Section_923_171_T48_5032120112">923.171 Applicability to contractors.</xref>
                      </p>
                   </li>
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_923_103_T48_5032120113.dita#Section_923_103_T48_5032120113">923.103 Contract clauses.</xref>
+                              href="Section_923_172_T48_5032120113.dita#Section_923_172_T48_5032120113">923.172 Contract clauses.</xref>
                      </p>
                   </li>
                </ul>
@@ -49,37 +53,13 @@
             <li>
                <p>
                   <xref outputclass="fm:TOC"
-                        href="Subpart_923_5_T48_50321202.dita#Subpart_923_5_T48_50321202">Subpart 923.5 - Drug-Free Workplace</xref>
+                        href="Subpart_923_4_T48_50321202.dita#Subpart_923_4_T48_50321202">Subpart 923.4—Contractor Compliance With Environmental Management Systems</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_923_500_T48_5032120211.dita#Section_923_500_T48_5032120211">923.500 Scope of subpart.</xref>
-                     </p>
-                  </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC"
-                              href="Section_923_570_T48_5032120212.dita#Section_923_570_T48_5032120212">923.570 Workplace substance abuse programs at DOE sites.</xref>
-                     </p>
-                  </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC"
-                              href="Section_923_570_1_T48_5032120213.dita#Section_923_570_1_T48_5032120213">923.570-1 Applicability.</xref>
-                     </p>
-                  </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC"
-                              href="Section_923_570_2_T48_5032120214.dita#Section_923_570_2_T48_5032120214">923.570-2 Solicitation provision and contract clause.</xref>
-                     </p>
-                  </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC"
-                              href="Section_923_570_3_T48_5032120215.dita#Section_923_570_3_T48_5032120215">923.570-3 Suspension of payments, termination of contract, and debarment and suspension actions.</xref>
+                              href="Section_923_404_T48_5032120211.dita#Section_923_404_T48_5032120211">923.404 Contract clause.</xref>
                      </p>
                   </li>
                </ul>
@@ -87,39 +67,25 @@
             <li>
                <p>
                   <xref outputclass="fm:TOC"
-                        href="Subpart_923_9_T48_50321203.dita#Subpart_923_9_T48_50321203">Subpart 923.9 - Contractor Compliance With Environmental Management Systems</xref>
+                        href="Subpart_923_70_T48_50321203.dita#Subpart_923_70_T48_50321203">Subpart 923.70—Environmental, Energy and Water Efficiency, Renewable Energy Technologies, and Occupational Safety Programs</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_923_903_T48_5032120311.dita#Section_923_903_T48_5032120311">923.903 Contract clause.</xref>
-                     </p>
-                  </li>
-               </ul>
-            </li>
-            <li>
-               <p>
-                  <xref outputclass="fm:TOC"
-                        href="Subpart_923_70_T48_50321204.dita#Subpart_923_70_T48_50321204">Subpart 923.70 - Environmental, Energy and Water Efficiency, Renewable Energy Technologies, and Occupational Safety Programs</xref>
-               </p>
-               <ul otherprops="TOC">
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC"
-                              href="Section_923_7001_T48_5032120411.dita#Section_923_7001_T48_5032120411">923.7001 Nuclear safety.</xref>
+                              href="Section_923_7001_T48_5032120311.dita#Section_923_7001_T48_5032120311">923.7001 Nuclear safety.</xref>
                      </p>
                   </li>
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_923_7002_T48_5032120412.dita#Section_923_7002_T48_5032120412">923.7002 Worker safety and health.</xref>
+                              href="Section_923_7002_T48_5032120312.dita#Section_923_7002_T48_5032120312">923.7002 Worker safety and health.</xref>
                      </p>
                   </li>
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_923_7003_T48_5032120413.dita#Section_923_7003_T48_5032120413">923.7003 Contract clauses.</xref>
+                              href="Section_923_7003_T48_5032120313.dita#Section_923_7003_T48_5032120313">923.7003 Contract clauses.</xref>
                      </p>
                   </li>
                </ul>

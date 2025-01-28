@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept outputclass="Section" id="Section_952_245-5_T48_50325402165">
+      <title class="- topic/title ">
+         <ph props="autonumber">952.245-5</ph> Government property (cost-reimbursement, time-and-materials, or labor-hour contracts).</title>
+      <conbody>
+         <p xtrc="P">Modify FAR 52.245-1 by adding “and DOE Acquisition Regulation subpart <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Subpart_945_5_T48_50324353"
+                  href="Subpart_945_5_T48_50324353.dita#Subpart_945_5_T48_50324353">945.5</xref>” at the end of the first sentence in paragraphs (e)(1) and (2) of the clause.
+</p>
+      </conbody>
+   </concept>
+</dita>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept outputclass="Section" id="Section_970_1504-104_T48_5032641716">
+      <title class="- topic/title ">
+         <ph props="autonumber">970.1504-104</ph> Calculating the maximum total available fee amount for a one-year period.</title>
+      <conbody>
+         <p outputclass="List1">(a) The maximum total available fee amount for a contract is the sum of the maximum total available fee amounts of the contract's one-year periods. The maximum total available fee amount in a one-year period is based on the fee base of the one-year period. Calculating the maximum total available fee amount for a one-year period requires considering the: magnitude of the effort (reflected by the total fee base for the year); type of effort (reflected by the allocation of the total fee base to the three fee schedules); nature, difficulty, complexity, and importance of the work (reflected by the choice of classification factors); and specific circumstances of the procurement (reflected by the appropriate percentages derived from considering significant factors).
+</p>
+         <p outputclass="List1">(b) To calculate the maximum total available fee amount for a year, the Contracting Officer takes the following steps:
+</p>
+         <p outputclass="List2">(1) <i>Step 1.</i> Determines the total fee base for the year (see 970.1504-105);
+</p>
+         <p outputclass="List2">(2) <i>Step 2.</i> Allocates the total fee base for the year as appropriate to the three types of efforts reflected by the three fee schedules (if there is only one type of effort, all of the total fee base is allocated to the fee schedule appropriate for the effort);
+</p>
+         <p outputclass="List2">(3) <i>Step 3.</i> Using the portion of the total fee base allocated to the schedule in paragraph (b)(2) of this section (step 2), determines a fee subtotal for each type of effort (see 970.1504-106);
+</p>
+         <p outputclass="List2">(4) <i>Step 4.</i> Multiplies each of the fee subtotals in paragraph (b)(3) of this section (step 3) by the appropriate classification factor (see 970.1504-107);
+</p>
+         <p outputclass="List2">(5) <i>Step 5.</i> Multiplies each of the products produced in paragraph (b)(4) of this section (step 4) by the appropriate percentage, which is determined by considering the significant factors (see 970.1504-108); and
+</p>
+         <p outputclass="List2">(6) <i>Step 6.</i> Adds the products of paragraph (b)(5) of this section (step 5).
+</p>
+         <p outputclass="List1">(c) An example of calculating the maximum total available fee for a one-year period follows in paragraphs (c)
+				</p>
+         <p outputclass="List2">(1) 
+			through (6) of this section. The assumptions are: total fee base is 50,000,000 (comprising 10,000,000 of Production efforts, 15,000,000 of Research and Development (R&amp;D) efforts, and 25,000,000 of Environmental Management (EM) efforts), classification factors are 3.0, 1.5, and 2.0, and appropriate percentages are 90%, 85%, and 75%.
+</p>
+         <p outputclass="List2">(1) <i>Step 1.</i> Determination of the total fee base: 50,000,000.
+</p>
+         <p outputclass="List2">(2) <i>Step 2.</i> Allocation of the total fee base in paragraph (c)(1) of this section (step 1) to the three fee schedules (based on the types of effort in the total fee base):
+</p>
+         <p outputclass="List3">(i) 10,000,000 to Production;
+</p>
+         <p outputclass="List3">(ii) 15,000,000 to R&amp;D; and
+</p>
+         <p outputclass="List3">(iii) 25,000,000 to EM.
+</p>
+         <p outputclass="List2">(3) <i>Step 3.</i> Determination of the fee subtotal for each type of effort using the applicable fee schedules:
+</p>
+         <p outputclass="List3">(i) 578,726 for Production;
+</p>
+         <p outputclass="List3">(ii) 957,250 for R&amp;D; and
+</p>
+         <p outputclass="List3">(iii) 1,236,340 for EM.
+</p>
+         <p outputclass="List2">(4) <i>Step 4.</i> Multiplication of the fee subtotal in paragraph (c)(3) of this section (step 3) for each type of effort by the appropriate classification factor:
+</p>
+         <p outputclass="List3">(i) 578,726 × 3.0 = 1,736,178 for Production;
+</p>
+         <p outputclass="List3">(ii) 957,250 × 1.5 = 1,435,875 for R&amp;D; and
+</p>
+         <p outputclass="List3">(iii) 1,236,340 × 2.0 = 2,472,680 for EM.
+</p>
+         <p outputclass="List2">(5) <i>Step 5.</i> Multiplication of each of the products of paragraph (c)(4) of this section (step 4) by the appropriate percentage for the type of work (determined by considering the significant factors (see 970.1504-108)):
+</p>
+         <p outputclass="List3">(i) 1,736,178 × .9 = 1,562,560 for Production;
+</p>
+         <p outputclass="List3">(ii) 1,435,875 × .85 = 1,220,494 for R&amp;D; and
+</p>
+         <p outputclass="List3">(iii) 2,472,680 × .75 = 1,854,510 for EM.
+</p>
+         <p outputclass="List2">(6) <i>Step 6.</i> Addition of the products of paragraph (c)(5) of this section (step 5):
+</p>
+         <p outputclass="List3">(i) 1,562,560.
+</p>
+         <p outputclass="List3">(ii) 1,220,494.
+</p>
+         <p outputclass="List3">(iii) 1,854,510.
+</p>
+         <p outputclass="List3">(iv) 4,637,564.
+</p>
+         <p outputclass="List1">(d) In summary, the maximum total available fee amount for a contract is the sum of the maximum total available fee amounts of the contract's one-year periods. Calculating the maximum total available fee amount for a one-year period entails determining the total fee base, allocating it to the fee schedules, using the fee schedules to determine fee subtotals, multiplying the fee subtotals by classification factors, multiplying the resulting products by appropriate percentages, and summing those products. (Allocating the amount of maximum total available fee for a one-year period to an evaluation period or periods is a separate action.)
+
+
+
+
+</p>
+      </conbody>
+   </concept>
+</dita>

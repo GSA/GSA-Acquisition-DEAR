@@ -3,8 +3,8 @@
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita>
    <topic id="Part_945_T48_5032435">
-      <title class="- topic/title ">
-         <ph props="autonumber">PART 945</ph> - GOVERNMENT PROPERTY</title>
+      <title class="- topic/title ">PART 945—GOVERNMENT PROPERTY
+</title>
       <body>
          <p>
             <ph class="- topic/ph ">Authority: </ph>
@@ -14,6 +14,8 @@
          <p>
             <ph class="- topic/ph ">Source: </ph>
                            77 FR 74387, Dec. 14, 2012, unless otherwise noted.
+
+
 
 
 
@@ -28,43 +30,25 @@
             <li>
                <p>
                   <xref outputclass="fm:TOC"
-                        href="Subpart_945_1_T48_50324351.dita#Subpart_945_1_T48_50324351">Subpart 945.1 - General</xref>
+                        href="Subpart_945_1_T48_50324351.dita#Subpart_945_1_T48_50324351">Subpart 945.1—General</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_945_101_T48_5032435111.dita#Section_945_101_T48_5032435111">945.101 Definitions.</xref>
+                              href="Section_945_102-72_T48_5032435111.dita#Section_945_102-72_T48_5032435111">945.102-72 Reporting of contractor sensitive property inventory.</xref>
                      </p>
                   </li>
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_945_102_70_T48_5032435112.dita#Section_945_102_70_T48_5032435112">945.102-70 Reporting of contractor-held property.</xref>
+                              href="Section_945_170_T48_5032435112.dita#Section_945_170_T48_5032435112">945.170 Providing Government property to contractors.</xref>
                      </p>
                   </li>
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_945_102_71_T48_5032435113.dita#Section_945_102_71_T48_5032435113">945.102-71 Maintenance of records.</xref>
-                     </p>
-                  </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC"
-                              href="Section_945_102_72_T48_5032435114.dita#Section_945_102_72_T48_5032435114">945.102-72 Reporting of contractor sensitive property inventory.</xref>
-                     </p>
-                  </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC"
-                              href="Section_945_170_T48_5032435115.dita#Section_945_170_T48_5032435115">945.170 Providing Government property to contractors.</xref>
-                     </p>
-                  </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC"
-                              href="Section_945_170_1_T48_5032435116.dita#Section_945_170_1_T48_5032435116">945.170-1 Policy.</xref>
+                              href="Section_945_170-1_T48_5032435113.dita#Section_945_170-1_T48_5032435113">945.170-1 Policy.</xref>
                      </p>
                   </li>
                </ul>
@@ -78,7 +62,7 @@
             <li>
                <p>
                   <xref outputclass="fm:TOC"
-                        href="Subpart_945_5_T48_50324353.dita#Subpart_945_5_T48_50324353">Subpart 945.5 - Support Government Property Administration</xref>
+                        href="Subpart_945_5_T48_50324353.dita#Subpart_945_5_T48_50324353">Subpart 945.5—Support Government Property Administration</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
@@ -90,19 +74,19 @@
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_945_570_1_T48_5032435312.dita#Section_945_570_1_T48_5032435312">945.570-1 Acquisition of motor vehicles.</xref>
+                              href="Section_945_570-1_T48_5032435312.dita#Section_945_570-1_T48_5032435312">945.570-1 Acquisition of motor vehicles.</xref>
                      </p>
                   </li>
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_945_570_2_T48_5032435313.dita#Section_945_570_2_T48_5032435313">945.570-2 Disposition of motor vehicles.</xref>
+                              href="Section_945_570-2_T48_5032435313.dita#Section_945_570-2_T48_5032435313">945.570-2 Disposition of motor vehicles.</xref>
                      </p>
                   </li>
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_945_570_3_T48_5032435314.dita#Section_945_570_3_T48_5032435314">945.570-3 Reporting motor vehicle data.</xref>
+                              href="Section_945_570-3_T48_5032435314.dita#Section_945_570-3_T48_5032435314">945.570-3 Reporting motor vehicle data.</xref>
                      </p>
                   </li>
                </ul>
@@ -110,73 +94,43 @@
             <li>
                <p>
                   <xref outputclass="fm:TOC"
-                        href="Subpart_945_6_T48_50324354.dita#Subpart_945_6_T48_50324354">Subpart 945.6 - Reporting, Reutilization, and Disposal</xref>
+                        href="Subpart_945_6_T48_50324354.dita#Subpart_945_6_T48_50324354">Subpart 945.6—Reporting, Reutilization, and Disposal</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_945_602_T48_5032435411.dita#Section_945_602_T48_5032435411">945.602 Reutilization of Government property.</xref>
+                              href="Section_945_604_T48_5032435411.dita#Section_945_604_T48_5032435411">945.604 Disposal of surplus property.</xref>
                      </p>
                   </li>
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_945_602_3_T48_5032435412.dita#Section_945_602_3_T48_5032435412">945.602-3 Screening.</xref>
+                              href="Section_945_604-1_T48_5032435412.dita#Section_945_604-1_T48_5032435412">945.604-1 Disposal methods.</xref>
                      </p>
                   </li>
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_945_602_70_T48_5032435413.dita#Section_945_602_70_T48_5032435413">945.602-70 Local screening.</xref>
+                              href="Section_945_670_T48_5032435413.dita#Section_945_670_T48_5032435413">945.670 DOE disposal methods.</xref>
                      </p>
                   </li>
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_945_603_T48_5032435414.dita#Section_945_603_T48_5032435414">945.603 Abandonment, destruction or donation of excess personal property.</xref>
+                              href="Section_945_670-1_T48_5032435414.dita#Section_945_670-1_T48_5032435414">945.670-1 Plant clearance function.</xref>
                      </p>
                   </li>
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_945_604_T48_5032435415.dita#Section_945_604_T48_5032435415">945.604 Disposal of surplus property.</xref>
+                              href="Section_945_670-2_T48_5032435415.dita#Section_945_670-2_T48_5032435415">945.670-2 Disposal of radioactively contaminated personal property.</xref>
                      </p>
                   </li>
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_945_604_1_T48_5032435416.dita#Section_945_604_1_T48_5032435416">945.604-1 Disposal methods.</xref>
-                     </p>
-                  </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC"
-                              href="Section_945_670_T48_5032435417.dita#Section_945_670_T48_5032435417">945.670 DOE disposal methods.</xref>
-                     </p>
-                  </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC"
-                              href="Section_945_670_1_T48_5032435418.dita#Section_945_670_1_T48_5032435418">945.670-1 Plant clearance function.</xref>
-                     </p>
-                  </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC"
-                              href="Section_945_670_2_T48_5032435419.dita#Section_945_670_2_T48_5032435419">945.670-2 Disposal of radioactively contaminated personal property.</xref>
-                     </p>
-                  </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC"
-                              href="Section_945_670_3_T48_50324354110.dita#Section_945_670_3_T48_50324354110">945.670-3 Waiver of screening requirements.</xref>
-                     </p>
-                  </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC"
-                              href="Section_945_671_T48_50324354111.dita#Section_945_671_T48_50324354111">945.671 Contractor inventory in foreign countries.</xref>
+                              href="Section_945_671_T48_5032435416.dita#Section_945_671_T48_5032435416">945.671 Contractor inventory in foreign countries.</xref>
                      </p>
                   </li>
                </ul>

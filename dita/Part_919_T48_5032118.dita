@@ -3,8 +3,8 @@
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita>
    <topic id="Part_919_T48_5032118">
-      <title class="- topic/title ">
-         <ph props="autonumber">PART 919</ph> - SMALL BUSINESS PROGRAMS</title>
+      <title class="- topic/title ">PART 919—SMALL BUSINESS PROGRAMS
+</title>
       <body>
          <p>
             <ph class="- topic/ph ">Authority: </ph>
@@ -22,7 +22,7 @@
             <li>
                <p>
                   <xref outputclass="fm:TOC"
-                        href="Subpart_919_2_T48_50321181.dita#Subpart_919_2_T48_50321181">Subpart 919.2 - Policies</xref>
+                        href="Subpart_919_2_T48_50321181.dita#Subpart_919_2_T48_50321181">Subpart 919.2—Policies</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
@@ -36,7 +36,7 @@
             <li>
                <p>
                   <xref outputclass="fm:TOC"
-                        href="Subpart_919_5_T48_50321182.dita#Subpart_919_5_T48_50321182">Subpart 919.5 - Set-Asides for Small Business</xref>
+                        href="Subpart_919_5_T48_50321182.dita#Subpart_919_5_T48_50321182">Subpart 919.5—Set-Asides for Small Business</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
@@ -54,7 +54,7 @@
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_919_502_2_T48_5032118213.dita#Section_919_502_2_T48_5032118213">919.502-2 Total small business set-asides.</xref>
+                              href="Section_919_502-2_T48_5032118213.dita#Section_919_502-2_T48_5032118213">919.502-2 Total small business set-asides.</xref>
                      </p>
                   </li>
                   <li>
@@ -68,13 +68,13 @@
             <li>
                <p>
                   <xref outputclass="fm:TOC"
-                        href="Subpart_919_6_T48_50321183.dita#Subpart_919_6_T48_50321183">Subpart 919.6 - Certificates of Competency and Determinations of Eligibility</xref>
+                        href="Subpart_919_6_T48_50321183.dita#Subpart_919_6_T48_50321183">Subpart 919.6—Certificates of Competency and Determinations of Eligibility</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_919_602_1_T48_5032118311.dita#Section_919_602_1_T48_5032118311">919.602-1 Referral.</xref>
+                              href="Section_919_602-1_T48_5032118311.dita#Section_919_602-1_T48_5032118311">919.602-1 Referral.</xref>
                      </p>
                   </li>
                </ul>
@@ -82,13 +82,13 @@
             <li>
                <p>
                   <xref outputclass="fm:TOC"
-                        href="Subpart_919_7_T48_50321184.dita#Subpart_919_7_T48_50321184">Subpart 919.7 - The Small Business Subcontracting Program</xref>
+                        href="Subpart_919_7_T48_50321184.dita#Subpart_919_7_T48_50321184">Subpart 919.7—The Small Business Subcontracting Program</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_919_705_6_T48_5032118411.dita#Section_919_705_6_T48_5032118411">919.705-6 Postaward responsibilities of the contracting officer.</xref>
+                              href="Section_919_705-6_T48_5032118411.dita#Section_919_705-6_T48_5032118411">919.705-6 Postaward responsibilities of the contracting officer.</xref>
                      </p>
                   </li>
                </ul>
@@ -96,13 +96,13 @@
             <li>
                <p>
                   <xref outputclass="fm:TOC"
-                        href="Subpart_919_8_T48_50321185.dita#Subpart_919_8_T48_50321185">Subpart 919.8 - Contracting With the Small Business Administration (The 8(a) Program)</xref>
+                        href="Subpart_919_8_T48_50321185.dita#Subpart_919_8_T48_50321185">Subpart 919.8—Contracting With the Small Business Administration (The 8(a) Program)</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_919_805_2_T48_5032118511.dita#Section_919_805_2_T48_5032118511">919.805-2 Procedures.</xref>
+                              href="Section_919_805-2_T48_5032118511.dita#Section_919_805-2_T48_5032118511">919.805-2 Procedures.</xref>
                      </p>
                   </li>
                </ul>
@@ -110,7 +110,7 @@
             <li>
                <p>
                   <xref outputclass="fm:TOC"
-                        href="Subpart_919_70_T48_50321186.dita#Subpart_919_70_T48_50321186">Subpart 919.70 - The Department of Energy Mentor-Protege Program</xref>
+                        href="Subpart_919_70_T48_50321186.dita#Subpart_919_70_T48_50321186">Subpart 919.70—The Department of Energy Mentor-Protege Program</xref>
                </p>
                <ul otherprops="TOC">
                   <li>

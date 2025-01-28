@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept outputclass="Section" id="Section_927_401_T48_5032224312">
+      <title class="- topic/title ">
+         <ph props="autonumber">927.401</ph> Definitions.</title>
+      <conbody>
+         <p xtrc="P">
+                                 <i>Technical data</i> means data (other than computer software) of a scientific or technical nature. Technical data does not include computer software, but does include manuals and instructional materials and technical data formatted as a computer database (see appendix A to subpart D of 2 CFR part 910).
+</p>
+      </conbody>
+   </concept>
+</dita>

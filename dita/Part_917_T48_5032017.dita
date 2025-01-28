@@ -3,8 +3,8 @@
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita>
    <topic id="Part_917_T48_5032017">
-      <title class="- topic/title ">
-         <ph props="autonumber">PART 917</ph> - SPECIAL CONTRACTING METHODS</title>
+      <title class="- topic/title ">PART 917—SPECIAL CONTRACTING METHODS
+</title>
       <body>
          <p>
             <ph class="- topic/ph ">Authority: </ph>
@@ -22,7 +22,7 @@
             <li>
                <p>
                   <xref outputclass="fm:TOC"
-                        href="Subpart_917_6_T48_50320171.dita#Subpart_917_6_T48_50320171">Subpart 917.6 - Management and Operating Contracts</xref>
+                        href="Subpart_917_6_T48_50320171.dita#Subpart_917_6_T48_50320171">Subpart 917.6—Management and Operating Contracts</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
@@ -34,13 +34,7 @@
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_917_601_T48_5032017112.dita#Section_917_601_T48_5032017112">917.601 Definitions.</xref>
-                     </p>
-                  </li>
-                  <li>
-                     <p>
-                        <xref outputclass="fm:TOC"
-                              href="Section_917_602_T48_5032017113.dita#Section_917_602_T48_5032017113">917.602 Policy.</xref>
+                              href="Section_917_602_T48_5032017112.dita#Section_917_602_T48_5032017112">917.602 Policy.</xref>
                      </p>
                   </li>
                </ul>
@@ -48,7 +42,7 @@
             <li>
                <p>
                   <xref outputclass="fm:TOC"
-                        href="Subpart_917_70_T48_50320172.dita#Subpart_917_70_T48_50320172">Subpart 917.70 - Cost Participation</xref>
+                        href="Subpart_917_70_T48_50320172.dita#Subpart_917_70_T48_50320172">Subpart 917.70—Cost Participation</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
@@ -68,7 +62,7 @@
             <li>
                <p>
                   <xref outputclass="fm:TOC"
-                        href="Subpart_917_72_T48_50320173.dita#Subpart_917_72_T48_50320173">Subpart 917.72 - Program Opportunity Notices for Commercial Demonstrations</xref>
+                        href="Subpart_917_72_T48_50320173.dita#Subpart_917_72_T48_50320173">Subpart 917.72—Program Opportunity Notices for Commercial Demonstrations</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
@@ -86,7 +80,7 @@
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_917_7201_1_T48_5032017313.dita#Section_917_7201_1_T48_5032017313">917.7201-1 General.</xref>
+                              href="Section_917_7201-1_T48_5032017313.dita#Section_917_7201-1_T48_5032017313">917.7201-1 General.</xref>
                      </p>
                   </li>
                </ul>
@@ -94,7 +88,7 @@
             <li>
                <p>
                   <xref outputclass="fm:TOC"
-                        href="Subpart_917_73_T48_50320174.dita#Subpart_917_73_T48_50320174">Subpart 917.73 - Program Research and Development Announcements</xref>
+                        href="Subpart_917_73_T48_50320174.dita#Subpart_917_73_T48_50320174">Subpart 917.73—Program Research and Development Announcements</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
@@ -112,7 +106,7 @@
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_917_7301_1_T48_5032017413.dita#Section_917_7301_1_T48_5032017413">917.7301-1 General.</xref>
+                              href="Section_917_7301-1_T48_5032017413.dita#Section_917_7301-1_T48_5032017413">917.7301-1 General.</xref>
                      </p>
                   </li>
                </ul>
@@ -120,7 +114,7 @@
             <li>
                <p>
                   <xref outputclass="fm:TOC"
-                        href="Subpart_917_74_T48_50320175.dita#Subpart_917_74_T48_50320175">Subpart 917.74 - Acquisition, Use, and Disposal of Real Estate</xref>
+                        href="Subpart_917_74_T48_50320175.dita#Subpart_917_74_T48_50320175">Subpart 917.74—Acquisition, Use, and Disposal of Real Estate</xref>
                </p>
                <ul otherprops="TOC">
                   <li>

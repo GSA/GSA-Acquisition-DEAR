@@ -3,8 +3,8 @@
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita>
    <topic id="Part_949_T48_5032437">
-      <title class="- topic/title ">
-         <ph props="autonumber">PART 949</ph> - TERMINATION OF CONTRACTS</title>
+      <title class="- topic/title ">PART 949—TERMINATION OF CONTRACTS
+</title>
       <body>
          <p>
             <ph class="- topic/ph ">Authority: </ph>
@@ -22,7 +22,7 @@
             <li>
                <p>
                   <xref outputclass="fm:TOC"
-                        href="Subpart_949_1_T48_50324371.dita#Subpart_949_1_T48_50324371">Subpart 949.1 - General Principles</xref>
+                        href="Subpart_949_1_T48_50324371.dita#Subpart_949_1_T48_50324371">Subpart 949.1—General Principles</xref>
                </p>
                <ul otherprops="TOC">
                   <li>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept outputclass="Section" id="Section_970_2201-110_T48_50326411014">
+      <title class="- topic/title ">
+         <ph props="autonumber">970.2201-110</ph> General.</title>
+      <conbody>
+         <p xtrc="P">Contracting officers shall, in appropriate circumstances, follow the requirements in FAR subpart 22.1, as supplemented in this section, in the award and administration of:
+</p>
+         <p outputclass="List1">(a) Management and operating (M&amp;O) contracts;
+</p>
+         <p outputclass="List1">(b) Contracts the Senior Procurement Executive designates; and
+</p>
+         <p outputclass="List1">(c) Non-M&amp;O contracts where the current contract's work was previously performed under an M&amp;O contract and the current Contractor was required to, and did, employ the former Contractor's legacy workforce. These non-M&amp;O contracts may include, but are not limited to, contracts whose work is for:
+</p>
+         <p outputclass="List2">(1) Environmental remediation;
+</p>
+         <p outputclass="List2">(2) Decontamination and decommissioning;
+</p>
+         <p outputclass="List2">(3) Environmental restoration;
+</p>
+         <p outputclass="List2">(4) Infrastructure services for the site;
+</p>
+         <p outputclass="List2">(5) Site closure at a current or former M&amp;O contract site or facility; or
+</p>
+         <p outputclass="List2">(6) Protective forces that provide physical security of sites at a current of former M&amp;O contract site or facility.
+</p>
+      </conbody>
+   </concept>
+</dita>

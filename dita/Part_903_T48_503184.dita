@@ -3,8 +3,8 @@
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita>
    <topic id="Part_903_T48_503184">
-      <title class="- topic/title ">
-         <ph props="autonumber">PART 903</ph> - IMPROPER BUSINESS PRACTICES AND PERSONAL CONFLICTS OF INTEREST</title>
+      <title class="- topic/title ">PART 903—IMPROPER BUSINESS PRACTICES AND PERSONAL CONFLICTS OF INTEREST
+</title>
       <body>
          <p>
             <ph class="- topic/ph ">Authority: </ph>
@@ -22,7 +22,7 @@
             <li>
                <p>
                   <xref outputclass="fm:TOC"
-                        href="Subpart_903_1_T48_5031841.dita#Subpart_903_1_T48_5031841">Subpart 903.1 - Safeguards</xref>
+                        href="Subpart_903_1_T48_5031841.dita#Subpart_903_1_T48_5031841">Subpart 903.1—Safeguards</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
@@ -34,19 +34,19 @@
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_903_101_3_T48_503184112.dita#Section_903_101_3_T48_503184112">903.101-3 Agency regulations.</xref>
+                              href="Section_903_101-3_T48_503184112.dita#Section_903_101-3_T48_503184112">903.101-3 Agency regulations.</xref>
                      </p>
                   </li>
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_903_104_1_T48_503184113.dita#Section_903_104_1_T48_503184113">903.104-1 Definitions.</xref>
+                              href="Section_903_104-1_T48_503184113.dita#Section_903_104-1_T48_503184113">903.104-1 Definitions.</xref>
                      </p>
                   </li>
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_903_104_7_T48_503184114.dita#Section_903_104_7_T48_503184114">903.104-7 Violations or possible violations.</xref>
+                              href="Section_903_104-7_T48_503184114.dita#Section_903_104-7_T48_503184114">903.104-7 Violations or possible violations.</xref>
                      </p>
                   </li>
                </ul>
@@ -54,7 +54,7 @@
             <li>
                <p>
                   <xref outputclass="fm:TOC"
-                        href="Subpart_903_2_T48_5031842.dita#Subpart_903_2_T48_5031842">Subpart 903.2 - Contractor Gratuities to Government Personnel</xref>
+                        href="Subpart_903_2_T48_5031842.dita#Subpart_903_2_T48_5031842">Subpart 903.2—Contractor Gratuities to Government Personnel</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
@@ -74,7 +74,7 @@
             <li>
                <p>
                   <xref outputclass="fm:TOC"
-                        href="Subpart_903_3_T48_5031843.dita#Subpart_903_3_T48_5031843">Subpart 903.3 - Reports of Suspected Antitrust Violations</xref>
+                        href="Subpart_903_3_T48_5031843.dita#Subpart_903_3_T48_5031843">Subpart 903.3—Reports of Suspected Antitrust Violations</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
@@ -88,7 +88,7 @@
             <li>
                <p>
                   <xref outputclass="fm:TOC"
-                        href="Subpart_903_4_T48_5031844.dita#Subpart_903_4_T48_5031844">Subpart 903.4 - Contingent Fees</xref>
+                        href="Subpart_903_4_T48_5031844.dita#Subpart_903_4_T48_5031844">Subpart 903.4—Contingent Fees</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
@@ -102,7 +102,7 @@
             <li>
                <p>
                   <xref outputclass="fm:TOC"
-                        href="Subpart_903_5_T48_5031845.dita#Subpart_903_5_T48_5031845">Subpart 903.5 - Other Improper Business Practices</xref>
+                        href="Subpart_903_5_T48_5031845.dita#Subpart_903_5_T48_5031845">Subpart 903.5—Other Improper Business Practices</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
@@ -116,7 +116,7 @@
             <li>
                <p>
                   <xref outputclass="fm:TOC"
-                        href="Subpart_903_6_T48_5031846.dita#Subpart_903_6_T48_5031846">Subpart 903.6 - Contracts With Government Employees or Organizations Owned or Controlled by Them</xref>
+                        href="Subpart_903_6_T48_5031846.dita#Subpart_903_6_T48_5031846">Subpart 903.6—Contracts With Government Employees or Organizations Owned or Controlled by Them</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
@@ -130,7 +130,7 @@
             <li>
                <p>
                   <xref outputclass="fm:TOC"
-                        href="Subpart_903_7_T48_5031847.dita#Subpart_903_7_T48_5031847">Subpart 903.7 - Voiding and Rescinding Contracts</xref>
+                        href="Subpart_903_7_T48_5031847.dita#Subpart_903_7_T48_5031847">Subpart 903.7—Voiding and Rescinding Contracts</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
@@ -144,7 +144,7 @@
             <li>
                <p>
                   <xref outputclass="fm:TOC"
-                        href="Subpart_903_9_T48_5031848.dita#Subpart_903_9_T48_5031848">Subpart 903.9 - Whistleblower Protections for Contractor Employees</xref>
+                        href="Subpart_903_9_T48_5031848.dita#Subpart_903_9_T48_5031848">Subpart 903.9—Whistleblower Protections for Contractor Employees</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
@@ -182,13 +182,19 @@
             <li>
                <p>
                   <xref outputclass="fm:TOC"
-                        href="Subpart_903_10_T48_5031849.dita#Subpart_903_10_T48_5031849">Subpart 903.10 - Contractor Code of Business Ethics and Conduct</xref>
+                        href="Subpart_903_10_T48_5031849.dita#Subpart_903_10_T48_5031849">Subpart 903.10—Contractor Code of Business Ethics and Conduct</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_903_1004_T48_503184911.dita#Section_903_1004_T48_503184911">903.1004 Contract clauses.</xref>
+                              href="Section_903_1003_T48_503184911.dita#Section_903_1003_T48_503184911">903.1003 Requirements.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_903_1004_T48_503184912.dita#Section_903_1004_T48_503184912">903.1004 Contract clauses.</xref>
                      </p>
                   </li>
                </ul>

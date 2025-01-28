@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept outputclass="Section" id="Section_922_101-70_T48_5032119111">
+      <title class="- topic/title ">
+         <ph props="autonumber">922.101-70</ph> General (applicability of Management and Operating contractor basic labor policies to certain non-Management and Operating contracts).</title>
+      <conbody>
+         <p outputclass="List1">(a) The policies and associated contract clauses in 970.2201 apply to the award and administration of non-Management and Operating contracts if:
+</p>
+         <p outputclass="List2">(1) The contract work had been previously performed under a DOE Management and Operating contract; and/or
+</p>
+         <p outputclass="List2">(2) The Contractor is required to employ all or part of the former Contractor's workforce; or
+</p>
+         <p outputclass="List2">(3) The contract has been specifically designated by the Senior Procurement Executive.
+</p>
+         <p outputclass="List1">(b) The non-M&amp;O contracts described by paragraph (a) of this section may include, but are not limited to, contracts whose work is for:
+</p>
+         <p outputclass="List2">(1) Environmental remediation;
+</p>
+         <p outputclass="List2">(2) Decontamination and decommissioning;
+</p>
+         <p outputclass="List2">(3) Environmental restoration;
+</p>
+         <p outputclass="List2">(4) Infrastructure services for the site;
+</p>
+         <p outputclass="List2">(5) Site closure at a current or former M&amp;O contract site or facility; or
+</p>
+         <p outputclass="List2">(6) Protective forces that provide physical security of sites at a current or former M&amp;O contract site.
+</p>
+      </conbody>
+   </concept>
+</dita>
