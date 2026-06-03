@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept outputclass="Section" id="Section_970_1504-111_T48_50326417113">
+      <title class="- topic/title ">
+         <ph props="autonumber">970.1504-111</ph> The maximum total available fee amount for a contract.</title>
+      <conbody>
+         <p xtrc="P">The maximum total available fee amount for a contract is the sum of the maximum total available fee amounts of the contract's one-year periods.
+
+
+
+
+</p>
+      </conbody>
+   </concept>
+</dita>

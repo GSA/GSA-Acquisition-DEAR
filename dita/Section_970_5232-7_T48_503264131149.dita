@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept outputclass="Section" id="Section_970_5232-7_T48_503264131149">
+      <title class="- topic/title ">
+         <ph props="autonumber">970.5232-7</ph> Financial management system.</title>
+      <conbody>
+         <p xtrc="P">As prescribed in 970.3270(b)(1), insert the following clause:
+</p>
+         <p xtrc="HD3">Financial Management System [December 2024]
+</p>
+         <p outputclass="List1">(a) The Contractor shall maintain and administer a financial management system that is suitable to provide proper accounting in accordance with DOE requirements. In addition, the Contractor shall maintain and administer a financial management system that is in accordance with Generally Accepted Accounting Principles (GAAP) for Federal entities, as defined by the Federal Accounting Standards Advisory Board and implemented by the DOE Financial Management Handbook and other implementing policies. The financial system will also permit the proper allocation of costs to separately funded activities consistent with Cost Accounting Standards (CAS), as defined by 48 CFR part 9900 and any implementing DOE policies and ensures that accountability for the assets can be maintained.
+</p>
+         <p outputclass="List1">(b) The Contractor shall submit to the Contracting Officer for written approval an annual plan for new financial management systems and/or subsystems and major enhancements and/or upgrades to the currently existing financial systems and/or subsystems. The Contractor shall notify DOE thirty (30) days in advance of any planned implementation of any substantial changes to the plan and, as requested by the Contracting Officer, shall submit any such changes to the Contracting Officer for written approval before implementation.
+</p>
+         <p xtrc="HD3">(End of clause)
+</p>
+      </conbody>
+   </concept>
+</dita>

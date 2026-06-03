@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept outputclass="Section" id="Section_952_232-7_T48_50325402154">
+      <title class="- topic/title ">
+         <ph props="autonumber">952.232-7</ph> Electronic submission of invoices/vouchers.</title>
+      <conbody>
+         <p xtrc="P">As prescribed at 932.971, insert the following clause:
+</p>
+         <p xtrc="HD3">Electronic Submission of Invoices/Vouchers [December 2024]
+</p>
+         <p xtrc="P">Contractors shall submit vouchers electronically through the Oak Ridge Financial Service Center's (ORFSC) Vendor Inquiry Payment Electronic Reporting System (VIPERS). VIPERS allows vendors to submit vouchers, attach supporting documentation and check the payment status of any voucher submitted to the DOE. Instructions concerning contractor enrollment and use of VIPERS can be found at <i>https://vipers.doe.gov.</i>
+                              </p>
+         <p xtrc="HD3">(End of clause)
+</p>
+      </conbody>
+   </concept>
+</dita>
